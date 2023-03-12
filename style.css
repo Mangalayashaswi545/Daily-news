@@ -1,0 +1,99 @@
+body {
+    /* background-image: url('back3.png');
+    height:80vh;
+    width:100%;
+    background-size: cover;
+    background-position: center; */
+}
+.whole{
+    background-image: url('map.png');
+    height:82vh;
+    width:95%;
+    background-size: cover;
+    background-position: center;
+    padding:30px;
+}
+.container{
+    margin-left:18%;
+    margin-right:18%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:30px;
+    padding-right:30px;
+
+    background-color: #8fded4;
+    /* border:2px solid rgb(222, 215, 215); */
+    border-radius:15px;
+    text-align: center;
+    /* box-shadow: 2px 2px 20px rgb(114, 156, 159); */
+    background-image: url('world.png');
+    height:85vh;
+    width:60%;
+    background-size: cover;
+    background-position: center;
+}
+.container h1{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    /* border:2px solid black; */
+    color: darkmagenta;
+    font-style: italic;
+    font-size: 40px;
+}
+.news{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin:30px;
+    font-size: 30px;
+}
+
+.publish h5{
+    margin:20px;
+}
+.url {
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 30px;
+    font-size: 20px;
+    width:500px;
+    text-align: center;
+}
+
+.btn{
+    background-color:rgb(212, 95, 205);
+    border-radius: 5px;
+    padding:7px;
+    border:none;
+}
+.btn:hover{
+    background-color: aqua;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.block{
+    background-color: rgb(12, 12, 12);
+    border-radius:5px;
+    margin-top:20px;
+    margin-bottom:20px;
+    padding:10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* background-image: url('back1.png');
+    height:5vh;
+    width:100%;
+    /* background-size: cover; */
+    /* background-position: center; */ 
+}
+/* .image{
+    width:3px;
+    height:1vh;
+} */
